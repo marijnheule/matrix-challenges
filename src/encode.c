@@ -3,24 +3,24 @@
 
 #define DIM	3
 
-#define EXACTLYONE
-#define ZEROTWO
+//#define EXACTLYONE
+//#define ZEROTWO
 //#define SBP
 //#define ALLZERO
 //#define FIXFALSE
 //#define PALIN
 //#define FIXDELTA
-#define ATLEASTONE
-//#define XOR
+//#define ATLEASTONE
+#define XOR
 
 //#define DIAGONAL
 
 //#define LADERMAN
 
-#define RNDFIX
-#define TWOFREELINES
+//#define RNDFIX
+//#define TWOFREELINES
 
-#define RNDRANKONE
+//#define RNDRANKONE
 
 //#define RANK
 
